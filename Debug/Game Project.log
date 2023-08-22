@@ -1,0 +1,17 @@
+﻿Build started 8/22/2023 11:13:55 PM.
+     1>Project "C:\Users\User\Downloads\Final\Game Project\Game Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Game Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Game Project.vcxproj -> C:\Users\User\Downloads\Final\Game Project\Debug\Game Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Game Project.unsuccessfulbuild".
+         Touching "Debug\Game Project.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Downloads\Final\Game Project\Game Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
